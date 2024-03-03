@@ -1,39 +1,39 @@
 .hide-content {
-    display : none;
+  display: none;
 }
 
 .show-content {
-    display : block;
+  display: block;
 }
 
 .cat-image {
-    display: inline;
+  display: inline;
 }
 
 .cat-info {
-    margin-top : 25px;
+  margin-top: 25px;
 }
 
 .cat-bio {
-    margin-left: 25px;
-    vertical-align: top;
-    display: inline-block;
-    width: 35%;
+  margin-left: 25px;
+  vertical-align: top;
+  display: inline-block;
+  width: 35%;
 }
 .cat-name-p {
-    font-size: 20px;
-    font-weight: bolder;
+  font-size: 20px;
+  font-weight: bolder;
 }
 
 .cat-desc-p {
-    font-size: 12px;
+  font-size: 12px;
 }
 
 .cat-temp-p {
-    font-size: 12px;
+  font-size: 12px;
 }
 
 .cat-temp-span {
-    font-size: 14px;
-    font-weight: bold;
+  font-size: 14px;
+  font-weight: bold;
 }
